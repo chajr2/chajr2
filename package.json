@@ -1,0 +1,14 @@
+{
+  "name": "chajr2",
+  "version": "0.0.1",
+  "description": "A CLI utility for getting CSS, HTML, and Javascript (and more!) ready",
+  "main": "chajr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Stinson",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
